@@ -1,0 +1,45 @@
+.box{
+	width: 100px;
+	height: 100px;
+}
+.blue{
+	background-color: blueviolet;
+	padding: 10px;
+	border: 5px solid orangered;
+	margin: 50px;
+}
+.green{
+	background-color: limegreen;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 40%;
+	height: 200px;
+	background-color: seagreen;
+}
+.contact{
+	float: right;
+	width: 60%;
+	height: 200px;
+	background-color: cadetblue;
+}
+.container2{
+	overflow: hidden;
+}
+
+.item{
+	float: left;
+	width: 33.33%;
+	height: 100px;
+
+}
+.aqua{
+	background-color: aqua;
+}
+.footer{
+	height: 100px;
+	background-color: black;
+}
